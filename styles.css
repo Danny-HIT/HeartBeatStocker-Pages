@@ -191,17 +191,8 @@ h3 {
 }
 
 .app-preview {
-  display: grid;
-  grid-template-columns: minmax(190px, 1fr) minmax(118px, 0.48fr);
-  align-items: center;
-  gap: clamp(12px, 2.4vw, 22px);
-  width: min(100%, 560px);
+  width: min(100%, 390px);
   margin-left: auto;
-}
-
-.screen-pair {
-  display: grid;
-  gap: clamp(12px, 2vw, 18px);
 }
 
 .screen-card {
@@ -218,7 +209,7 @@ h3 {
 }
 
 .screen-card-main {
-  transform: translateY(10px);
+  transform: none;
 }
 
 .section {
@@ -353,7 +344,7 @@ h3 {
   }
 
   .app-preview {
-    width: min(100%, 460px);
+    width: min(100%, 360px);
     margin: 18px auto 0;
   }
 
@@ -376,11 +367,6 @@ h3 {
   }
 
   .app-preview {
-    grid-template-columns: 1fr;
     width: min(100%, 310px);
-  }
-
-  .screen-pair {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
