@@ -4,7 +4,7 @@ These pages give App Store Connect a public Support URL and Privacy Policy URL.
 
 ## Recommended Free Option: GitHub Pages
 
-1. In GitHub, create or open the public pages-only repository `Danny-HIT/HeartBeatStocker-Pages`.
+1. In GitHub, create or open the public pages-only repository `ARandomStudio/HeartBeatStocker-Pages`.
 2. Go to Settings.
 3. Open Pages.
 4. Under Build and deployment, choose Deploy from a branch.
@@ -14,9 +14,9 @@ These pages give App Store Connect a public Support URL and Privacy Policy URL.
 
 Expected public URLs:
 
-- Landing page: `https://danny-hit.github.io/HeartBeatStocker-Pages/`
-- Support URL: `https://danny-hit.github.io/HeartBeatStocker-Pages/support.html`
-- Privacy Policy URL: `https://danny-hit.github.io/HeartBeatStocker-Pages/privacy.html`
+- Landing page: `https://arandomstudio.github.io/HeartBeatStocker-Pages/`
+- Support URL: `https://arandomstudio.github.io/HeartBeatStocker-Pages/support.html`
+- Privacy Policy URL: `https://arandomstudio.github.io/HeartBeatStocker-Pages/privacy.html`
 
 Important: GitHub Pages on a free GitHub account needs the Pages repository to be public. Keep the app source repository private and publish only these static support/privacy pages.
 
